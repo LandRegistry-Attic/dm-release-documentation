@@ -8,6 +8,10 @@
 
 ### Environment variables
 
+    The following environment variable should be set on the external test environments.
+
+    WEBSEAL_AUTHENTICATION      - determines if Webseal_authentication is turned on
+                                  Default True. Only set to false on the public test environment
 #### dm-deed-api
 
     SETTINGS                    - environment identifier (dev/prod/...)
