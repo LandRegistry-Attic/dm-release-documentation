@@ -1,9 +1,9 @@
-## Release 0.1.1 (2016-01-28)
+## Release 0.1.2 (2016-01-28)
 
 ### Application versions:
 
-    dm-deed-api:                            0.1.1
-    dm-borrower-frontend                    0.1.0
+    dm-deed-api:                            0.1.2
+    dm-borrower-frontend                    0.1.2
     dm-esec-client                          0.1.0
 
 ### Environment variables

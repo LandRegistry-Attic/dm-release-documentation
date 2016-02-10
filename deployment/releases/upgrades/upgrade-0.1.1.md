@@ -1,4 +1,4 @@
-## Upgrade to version 0.1.0
+## Upgrade to version 0.1.1
 
 * Need to import file: test_md.csv into mortgage_document table:
 * The DEED_DATABASE_URI environment variable needs to have been defined
