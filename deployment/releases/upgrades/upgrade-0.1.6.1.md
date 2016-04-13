@@ -1,4 +1,4 @@
-## Upgrade to version 0.6.1
+## Upgrade to version 0.1.6.1
 
 * Deploy dm-borrower-frontend 0.1.6.1
 
